@@ -1,5 +1,5 @@
 {
-    "name": "CAPTEUR TACTILE",
+    "name": "Boutons poussoirs A et B",
     "description": "",
     "dependencies": {
         "core": "*",
